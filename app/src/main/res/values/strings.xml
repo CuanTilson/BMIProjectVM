@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMIProjectVM</string>
+    <string name="body_mass_index">Body Mass Index Calculator</string>
+    <string name="height">Height (m)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="body_mass_index_is">Your BMI is: </string>
+</resources>
